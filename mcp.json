@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "haiku_mcp": {
+      "command": "/opt/homebrew/Caskroom/mambaforge/base/bin/python",
+      "args": ["/Users/granludo/Code/mini-mcp-server/run_server.py"],
+      "cwd": "/Users/granludo/Code/mini-mcp-server"
+    }
+  }
+}
